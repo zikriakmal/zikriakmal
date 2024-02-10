@@ -1,10 +1,10 @@
 ### Hello mates!👋 I'm Zikri.
 
-- 🔭 I currently pay my bill with **Javascript**, **PHP** and **Kotlin**
+- 🔭 I currently pay my bill with **Javascript**, **Typescript**, **Golang**, **PHP** and **Kotlin** 
 - 🌱 I improve skills by learning **Blockchain** technologies, and learn more to **How Manage My Team**
 - 👯 I’m looking to collaborate on opensource project which use Go, NodeJs, and JVM Stack
 - 💬 Let's talk about **music**, **tech**, **self improvement**, and **life journey**
-- 📫 Reach me: yanfreddrick@gmail.com
+- 📫 Reach me: zikriakmale@gmail.com
 
 <p align="left">
 <a href="https://github.com/zikriakmal">
