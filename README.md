@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on opensource project which use Go, NodeJs, and JVM Stack
 - 💬 Let's talk about **music**, **tech**, **self improvement**, **tennis** and **life journey**
 - 📫 Contact me: zikriakmale@gmail.com
-- 🌐 My Website me: <a href="https://zikriakmal.com">zikriakmal.com</a>
+- 🌐 My Website: <a href="https://zikriakmal.com">zikriakmal.com</a>
 
 <p align="left">
 <a href="https://github.com/zikriakmal">
