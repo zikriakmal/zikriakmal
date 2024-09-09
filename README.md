@@ -7,7 +7,7 @@
 - 🌐 My Website: <a href="https://zikriakmal.com">zikriakmal.com</a>
 
 <p align="left">
-<a href="https://github.com/zikriakmal">
+<a target="_blank" href="https://github.com/zikriakmal">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zikriakmal&show_icons=true&include_all_commits=true&count_private=true"/>
 </a>
 </p>
