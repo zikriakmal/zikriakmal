@@ -1,7 +1,7 @@
 <h1 align="center">Hey mates 👋 I'm Zikri</h1>
  
 <p align="center">
-  <b>Mobile & frontend engineer</b> building fintech apps by day and my own products by night.<br/>
+  <b>Software engineer</b>
   🇮🇩 From Indonesia · 📍 Based in Kuala Lumpur
 </p>
 
