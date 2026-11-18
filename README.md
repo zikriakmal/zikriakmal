@@ -18,11 +18,17 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,angular,go,php,laravel,java,spring,kotlin,postgres,mysql,docker&perline=7" />
 </p>
 
-🤝 Open to collaborate
-
-I'm keen on open-source projects using React / React Native, Angular, Go, Node.js and the JVM stack. If yours fits, open an issue or drop me an email.
-
-🗂️ How my repos are organized
-Repo name	Meaning
-project-name	✅ Actively maintained
-archived-project-name	📦 Archived. Kept for reference, no longer maintained
+### 🤝 Open to collaborate
+ 
+I'm keen on open-source projects using **React / React Native, Angular, Go, Node.js and the JVM stack**. If yours fits, open an issue or drop me an email.
+ 
+### 🗂️ How my repos are organized
+ 
+| Repo name | Meaning |
+| --- | --- |
+| `project-name` | ✅ Actively maintained |
+| `archived-project-name` | 📦 Archived. Kept for reference, no longer maintained |
+ 
+---
+ 
+<p align="center"><i>Thanks for stopping by. Ship something today ✨</i></p>
