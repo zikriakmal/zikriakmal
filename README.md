@@ -4,7 +4,9 @@
   <b>Mobile & frontend engineer</b> building fintech apps by day and my own products by night.<br/>
   🇮🇩 From Indonesia · 📍 Based in Kuala Lumpur
 </p>
+
 ---
+
 ### 🧑‍💻 About me
  
 - 💼 **~7 years** building fintech and banking apps: payment integrations, push provisioning, native module bridging
