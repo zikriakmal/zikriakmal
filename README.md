@@ -1,7 +1,7 @@
 <h1 align="center">Hey mates 👋 I'm Zikri</h1>
  
 <p align="center">
-  <b>Software engineer</b>
+  <b>Software Engineer</b>
   🇮🇩 From Indonesia · 📍 Based in Kuala Lumpur
 </p>
 
