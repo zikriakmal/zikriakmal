@@ -9,5 +9,5 @@
 Myrepo has format:
 
 - project-name => maintain and active project
-- archived-project-name : archived project
+- archived-project-name => archived project
 
