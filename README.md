@@ -6,3 +6,8 @@
 - 📫 Contact me: zikriakmale@gmail.com
 - 🌐 My Website: <a href="https://zikriakmal.com">zikriakmal.com</a>
 
+Myrepo has format:
+
+- project-name => maintain and active project
+- archived-project-name : archived project
+
