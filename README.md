@@ -17,7 +17,7 @@
 ### 🛠️ Tech I pay my bills with
  
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,go,php,kotlin,java,react,swift,angular,laravel,java,spring,kotlin,postgres,mysql,docker,claude&perline=7" />
+  <img src="https://skillicons.dev/icons?i=ts,js,go,php,kotlin,java,react,swift,angular,laravel,spring,postgres,mysql,docker&perline=7" />
 </p>
 
 ### 🤝 Open to collaborate
